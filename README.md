@@ -2,6 +2,7 @@
 [my site](https://traineratwot.aytour.ru)
 ## My Projects
  - [vscode-stationeers-ic10](https://marketplace.visualstudio.com/items?itemName=Traineratwot.stationeers-ic10)
+ - [web-clipboard](https://www.npmjs.com/package/web-clipboard)
 
 <!--
 **Traineratwot/Traineratwot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
