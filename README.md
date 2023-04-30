@@ -2,7 +2,7 @@
 [my site](https://traineratwot.aytour.ru)
 ## My Projects
  - vite-plugin-integrated
-   - [npmjs](https://www.npmjs.com/package/vite-plugin-integrated))
+   - [npmjs](https://www.npmjs.com/package/vite-plugin-integrated)
    - [github](https://github.com/Traineratwot/vite-plugin-integrated)
  - vscode-stationeers-ic10
    - [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=Traineratwot.stationeers-ic10)
