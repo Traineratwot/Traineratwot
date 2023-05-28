@@ -6,7 +6,7 @@
    - [github](https://github.com/Traineratwot/vite-plugin-integrated)
  - vscode-stationeers-ic10
    - [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=Traineratwot.stationeers-ic10)
-   - [github](https://github.com/Traineratwot/vscode-stationeers-ic10)
+   - [github](https://github.com//Stationeers-ic/vscode-stationeers-ic10)
  - web-clipboard
    - [npmjs](https://www.npmjs.com/package/web-clipboard)
    - [github](https://github.com/Traineratwot/clipboard)
