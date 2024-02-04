@@ -10,16 +10,9 @@
  - web-clipboard
    - [npmjs](https://www.npmjs.com/package/web-clipboard)
    - [github](https://github.com/Traineratwot/clipboard)
- - php-CLI
-   - [packagist](https://packagist.org/packages/traineratwot/php-cli)
-   - [github](https://github.com/traineratwot/php-cli)
  - XmlToDict
    - [packagist](https://packagist.org/packages/traineratwot/XmlToDict)
    - [github](https://github.com/Traineratwot/XmlToDict)
- - composer-config
-   - [packagist](https://packagist.org/packages/traineratwot/composer-config)
-   - [github](https://github.com/Traineratwot/composer-config)
-
 <!--
 **Traineratwot/Traineratwot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
