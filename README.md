@@ -1,29 +1,12 @@
-# Hi there 👋
-[my site](https://traineratwot.aytour.ru)
-## My Projects
- - vite-plugin-integrated
-   - [npmjs](https://www.npmjs.com/package/vite-plugin-integrated)
-   - [github](https://github.com/Traineratwot/vite-plugin-integrated)
- - vscode-stationeers-ic10
-   - [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=Traineratwot.stationeers-ic10)
-   - [github](https://github.com//Stationeers-ic/vscode-stationeers-ic10)
- - web-clipboard
-   - [npmjs](https://www.npmjs.com/package/web-clipboard)
-   - [github](https://github.com/Traineratwot/clipboard)
- - XmlToDict
-   - [packagist](https://packagist.org/packages/traineratwot/XmlToDict)
-   - [github](https://github.com/Traineratwot/XmlToDict)
-<!--
-**Traineratwot/Traineratwot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Traineratwot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Traineratwot&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Traineratwot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Here are some ideas to get you started:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Traineratwot&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=Traineratwot&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
